@@ -1,0 +1,28 @@
+{
+  "name": "react-resume",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "invariant": "^2.2.2",
+    "normalize.css": "^7.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "^1.1.0",
+    "sanitize.css": "^5.0.0",
+    "styled-components": "^2.4.0",
+    "styled-components-tachyons": "^0.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "pdf": "node scripts/export.js",
+    "pretty": "prettier --write --tab-width 4 'src/**/*.js' 'scripts/**/*.js'"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "prettier": "^1.12.1",
+    "puppeteer": "^1.0.0"
+  }
+}
