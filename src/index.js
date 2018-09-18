@@ -21,7 +21,7 @@ customResolve("./components/personal/personal")
         registerServiceWorker();
     })
     .catch(reason => {
-        import("./components/example").then(({ default: Resume }) => {
+        import("./components/app").then(({ default: Resume }) => {
             ReactDOM.render(<Resume />, document.getElementById("root"));
 
             registerServiceWorker();

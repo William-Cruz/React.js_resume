@@ -133,14 +133,14 @@ const Personal = () => {
             <Page>
                 {/* Header */}
 
-                <Header mb2>{`Your Name`}</Header>
+                <Header mb2>{`William Cruz`}</Header>
 
                 <Contact mb4>
                     <strong>{`E-mail:\u00A0\u00A0`}</strong>
-                    <Link href="mailto:email@email.com">{`email@email.com`}</Link>
+                    <Link href="chiefxcruz@gmail.com">{`chiefxcruz@gmail.com`}</Link>
                     <ContactGutter />
                     <strong>{`Phone:\u00A0\u00A0`}</strong>
-                    <Phone>{`+1-123-456-7890`}</Phone>
+                    <Phone>{`+1-512-921-7470`}</Phone>
                     <i>{`\u00A0\u00A0(mobile)`}</i>
                 </Contact>
 
@@ -266,7 +266,7 @@ const Personal = () => {
                 >{`Programming languages (not full list):`}</SubSubHeader>
 
                 <SummaryLine
-                >{`Proficient: Rust, C, Java, JavaScript, HTML, CSS, SQL, Clojure`}</SummaryLine>
+                >{`Proficient: JavaScript, HTML, CSS, SQL, Clojure`}</SummaryLine>
 
                 <SummaryLine
                 >{`Knowledgeable: C++, Python, bash scripting, Go (golang), Haskell`}</SummaryLine>
@@ -331,7 +331,7 @@ const Personal = () => {
                     <OpenSourceLine mb1>
                         <strong>{`Project A`}</strong>
                         <span>{`\u00A0\u00A0\u2014\u00A0\u00A0`}</span>
-                        <Link href="https://github.com/user/project_a">{`https://github.com/user/project_a`}</Link>
+                        <Link href="https://github.com/William-Cruz/tictacturing-instructional">{`https://github.com/William-Cruz/tictacturing-instructional`}</Link>
                     </OpenSourceLine>
 
                     <OpenSourceLine>
@@ -343,7 +343,7 @@ const Personal = () => {
                     <OpenSourceLine mb1>
                         <strong>{`Project B`}</strong>
                         <span>{`\u00A0\u00A0\u2014\u00A0\u00A0`}</span>
-                        <Link href="https://github.com/user/project_b">{`https://github.com/user/project_b`}</Link>
+                        <Link href="https://github.com/William-Cruz/React/tree/todo_list">{`https://github.com/William-Cruz/React/tree/todo_list`}</Link>
                     </OpenSourceLine>
 
                     <OpenSourceLine>
@@ -393,14 +393,14 @@ const Personal = () => {
 
                 <Education>
                     <EducationLine mb1>
-                        <strong>{`University of Utopia`}</strong>
+                        <strong>{`Austin Coding Academy`}</strong>
                         <EducationGutter />
-                        <span>{`City, State/Province, Country`}</span>
+                        <span>{`Austin, Texas, USA`}</span>
                     </EducationLine>
                     <EducationLine>
-                        <span>{`B.Sc. (Honours), Computer Science`}</span>
+                        <span>{`Full Stack Developer`}</span>
                         <EducationGutter />
-                        <span>{`2017`}</span>
+                        <span>{`2018`}</span>
                     </EducationLine>
                 </Education>
 
