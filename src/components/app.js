@@ -266,10 +266,10 @@ const Personal = () => {
                 >{`Programming languages (not full list):`}</SubSubHeader>
 
                 <SummaryLine
-                >{`Proficient: JavaScript, HTML, CSS, SQL, Clojure`}</SummaryLine>
+                >{`Proficient: JavaScript, HTML, CSS, React`}</SummaryLine>
 
                 <SummaryLine
-                >{`Knowledgeable: C++, Python, bash scripting, Go (golang), Haskell`}</SummaryLine>
+                >{`Knowledgeable: bash, SQL`}</SummaryLine>
 
                 <SubSubHeader
                     mb1
@@ -355,7 +355,7 @@ const Personal = () => {
                     <OpenSourceLine mb1>
                         <strong>{`Project C`}</strong>
                         <span>{`\u00A0\u00A0\u2014\u00A0\u00A0`}</span>
-                        <Link href="https://github.com/user/project_c">{`https://github.com/user/project_c`}</Link>
+                        <Link href="https://github.com/William-Cruz/React_API/tree/master/Final">{`https://github.com/William-Cruz/React_API/tree/master/Final`}</Link>
                     </OpenSourceLine>
 
                     <OpenSourceLine>
@@ -367,7 +367,7 @@ const Personal = () => {
                     <OpenSourceLine mb1>
                         <strong>{`Project D`}</strong>
                         <span>{`\u00A0\u00A0\u2014\u00A0\u00A0`}</span>
-                        <Link href="https://github.com/user/project_d">{`https://github.com/user/project_d`}</Link>
+                        <Link href="https://github.com/William-Cruz/React_API/tree/master/todo">{`https://github.com/William-Cruz/React_API/tree/master/todo`}</Link>
                     </OpenSourceLine>
 
                     <OpenSourceLine>
@@ -379,7 +379,7 @@ const Personal = () => {
                     <OpenSourceLine mb1>
                         <strong>{`Project E`}</strong>
                         <span>{`\u00A0\u00A0\u2014\u00A0\u00A0`}</span>
-                        <Link href="https://github.com/user/project_e">{`https://github.com/user/project_e`}</Link>
+                        <Link href="https://github.com/William-Cruz/React_API/tree/master/web_color">{`https://github.com/William-Cruz/React_API/tree/master/web_color`}</Link>
                     </OpenSourceLine>
 
                     <OpenSourceLine>
