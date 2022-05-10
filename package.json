@@ -7,7 +7,7 @@
     "normalize.css": "^7.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "^1.1.0",
+    "react-scripts": "^3.4.2",
     "sanitize.css": "^5.0.0",
     "styled-components": "^2.4.0",
     "styled-components-tachyons": "^0.0.5"
